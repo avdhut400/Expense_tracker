@@ -29,14 +29,14 @@ A modern, full-screen **Expense Tracker web application** built using **React**.
 ```
 expense-tracker/
 │── src/
-│   ├── components/
-│   │   ├── Balance.jsx
-│   │   ├── ExpenseForm.jsx
-│   │   ├── TransactionList.jsx
-│   │   └── TransactionItem.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
+│   ├
+│   │   
+│   │   
+│   │--App.css   
+│   │--ExpenseTracker.css   
+│   ├-- App.jsx
+│   ├-- main.jsx
+│   └-- index.css
 │── index.html
 │── package.json
 │── README.md
