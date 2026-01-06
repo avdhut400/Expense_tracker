@@ -1,6 +1,3 @@
-/* =========================
-   GLOBAL RESET + FULL SCREEN
-========================= */
 
 * {
   margin: 0;
@@ -21,9 +18,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* =========================
-   MAIN APP CONTAINER
-========================= */
 
 .app-container {
   min-height: 100vh;
@@ -40,10 +34,6 @@ body {
   width: 100%;
   max-width: 1200px;
 }
-
-/* =========================
-   HEADER CARD
-========================= */
 
 .header-card {
   background: white;
@@ -70,9 +60,6 @@ body {
   font-weight: 700;
 }
 
-/* =========================
-   STATS GRID
-========================= */
 
 .stats-grid {
   display: grid;
@@ -127,9 +114,7 @@ body {
   font-weight: bold;
 }
 
-/* =========================
-   FORM SECTION
-========================= */
+
 
 .form-container {
   background: #f7fafc;
@@ -202,9 +187,6 @@ body {
   cursor: pointer;
 }
 
-/* =========================
-   TRANSACTIONS
-========================= */
 
 .transactions-grid {
   display: grid;
@@ -254,10 +236,6 @@ body {
   align-items: center;
   gap: 15px;
 }
-
-/* =========================
-   RESPONSIVE
-========================= */
 
 @media (max-width: 768px) {
   .transactions-grid {
